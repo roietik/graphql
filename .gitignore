@@ -1,7 +1,3 @@
 node_modules/
  .gitignore
-<<<<<<< HEAD
  config/database.json/
-=======
- config/database.json
->>>>>>> bb8047bed60d9f5923b7bbe825603e1e923c10f2
